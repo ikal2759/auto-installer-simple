@@ -1,13 +1,13 @@
-# :bird: Pterodactyl-Theme-Autoinstaller
+# :bird: Auto-Installer-Simple
 
 
 
-## Auto Install Thema Pterodactyl
+## Auto Install Pterodactyl
 
 ## Command Install :
 
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/SkyzoOffc/Pterodactyl-Theme-Autoinstaller/main/install.sh)
+bash <(curl -s https://raw.githubusercontent.com/ikal2759/Auto-Installer-Simple/main/ikal.sh)
 ```
 
 ## Fitur Tools :
@@ -17,7 +17,7 @@ bash <(curl -s https://raw.githubusercontent.com/SkyzoOffc/Pterodactyl-Theme-Aut
 - Install Tema Enigma
 - Uninstall Tema
 
- (Kode Token : skyzodev)
+ (Kode Token : kalstoredev
 
 ## System Support :
 
